@@ -15,11 +15,6 @@ import java.sql.SQLException;
  */
 public class DBUtils {
 
-
-	
-	private static final String CONN_STR="jdbc:mysql://root:3306/db_supershop";
-	private static final String USERNAME="root";
-	private static final String PWD="123456";
 		
 	private static DBUtils me=new DBUtils();
 	
